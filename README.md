@@ -48,6 +48,45 @@
 8. Number of people got killed in car road accident Tableau Dashboard
 ![Screenshot 2024-06-25 203733](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/eebdb872-489f-4808-999d-f02a4e171056)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    
+## **Visualisations using Python packages Matplotlib and seaborn.**
 
+![image-c0c07b5c-3351-4859-93ad-cdc7f39acf8b](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/ecf1f698-d1e9-4ab8-92f0-abeb7118db86)
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+![image-b4086e41-fc44-437f-9697-123b23f6e236](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/737cd73e-7325-407f-9a8b-4f6245b69001)
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+![image-a0fafc6e-8281-4aff-864e-a8daf5eb071a](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/d4fc6409-15fb-4022-8a6b-38e51b2981f2)
+
+----------------------------------------------------------------------------------------------------------------------
+
+![image-232dc056-2fbb-41ac-9ef4-9f91cbc39595](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/4779d051-478d-479c-a7df-322539c4a976)
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+![image-8b2f630c-9e58-4f1b-9675-b814530c946f](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/1339de30-2686-4fa6-bdd8-f16386699516)
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+![image-0537b866-dcb9-4a53-8d2e-f6f3bf1f31d5](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/82f223e7-5c40-4c08-9566-671db9b3345e)
+
+----------------------------------------------------------------------------------------------------------------------
+Visualization on Number of people who have associate degree
+
+![image-1dfe0c13-3c3a-43ea-8bd2-4e1fd022c65f](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/15ec1a38-63a1-45cc-9efc-fcfaf034c1bc)
+
+----------------------------------------------------------------------------------------------------------------------
+
+![image-f5ef4c46-b636-44ab-8bb6-7981032bb12d](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/f3ed1dca-45cd-4150-9a1d-54fe4eebd324)
+
+----------------------------------------------------------------------------------------------------------------------
