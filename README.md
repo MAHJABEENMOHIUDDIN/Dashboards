@@ -1,11 +1,7 @@
 
-
-
-![Screenshot 2024-06-25 202003](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/ffd1c1fd-5d6c-4c0b-a92d-f5e9d4014d10)
+**![Screenshot 2024-06-25 202307](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/444968d7-cb9b-46f8-a207-f05311781124)**
 
 **This repository consists various types of Power BI and Tableau dashboards on various topics**
-
-
 ## Power BI Report
 
 1. Power BI report on Insaurance claimed fraudly.
@@ -49,4 +45,4 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-8.
+
