@@ -1,5 +1,9 @@
-![Screenshot 2024-06-25 201003](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/92150d10-a9ff-4be7-bc62-a2cc52c576f1)# Dashboards
-This repository consists various types of Power BI and Tableau dashboards on various topics
+
+
+
+![Screenshot 2024-06-25 202003](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/ffd1c1fd-5d6c-4c0b-a92d-f5e9d4014d10)
+
+**This repository consists various types of Power BI and Tableau dashboards on various topics**
 
 
 ## Power BI Report
@@ -43,3 +47,6 @@ This repository consists various types of Power BI and Tableau dashboards on var
 
 ![Screenshot 2024-06-25 201310](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/3aef2922-6adc-4aff-a337-0d73a31e10b0)
 
+----------------------------------------------------------------------------------------------------------------------
+
+8.
