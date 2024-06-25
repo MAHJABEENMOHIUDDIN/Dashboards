@@ -63,6 +63,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
+Visualization on percentage of men completed their professional degree in each year.
 
 ![image-a0fafc6e-8281-4aff-864e-a8daf5eb071a](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/d4fc6409-15fb-4022-8a6b-38e51b2981f2)
 
