@@ -45,4 +45,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
+8. Number of people got killed in car road accident Tableau Dashboard
+![Screenshot 2024-06-25 203733](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/eebdb872-489f-4808-999d-f02a4e171056)
+
+
+   
 
