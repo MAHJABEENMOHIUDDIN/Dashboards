@@ -3,6 +3,12 @@
 
 **This repository consists various types of Power BI and Tableau dashboards on various topics**
 ## Power BI Report
+Store Sale dashoard
+
+![Screenshot 2024-07-13 234821](https://github.com/user-attachments/assets/96a325b6-5d5c-4efd-a56b-a4664ced4fa4)
+
+
+
 
 1. Power BI report on Insaurance claimed fraudly.
 
