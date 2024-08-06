@@ -2,12 +2,17 @@
 **![Screenshot 2024-06-25 202307](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/444968d7-cb9b-46f8-a207-f05311781124)**
 
 **This repository consists various types of Power BI and Tableau dashboards on various topics**
-## Power BI Report
+## Power BI Report Analysis
+
+NewYork City Green Taxi Trips Analysis
+![NYC_Green_Taxi_Trips_dashboard](https://github.com/user-attachments/assets/e8bfa9cc-673d-48e7-8ff4-3605fd4fd6f3)
+
+-----------------------------------------------------------------------------------------------------------------------------------
 Store Sale dashoard
 
 ![Screenshot 2024-07-13 234821](https://github.com/user-attachments/assets/96a325b6-5d5c-4efd-a56b-a4664ced4fa4)
 
-
+-----------------------------------------------------------------------------------------------------------------------
 
 
 1. Power BI report on Insaurance claimed fraudly.
