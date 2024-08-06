@@ -16,6 +16,8 @@ Store Sale dashoard
 
 
 1. Power BI report on Insaurance claimed fraudly.
+![fraud_insurance_claimed](https://github.com/user-attachments/assets/be47798e-9c5d-44cd-85ca-43a15add86e2)
+
 
 ![Screenshot 2024-06-25 193307](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/4fc90216-6173-41ee-9496-8a983a0603cb)
 
