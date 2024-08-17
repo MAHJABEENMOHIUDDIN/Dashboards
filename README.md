@@ -5,7 +5,8 @@
 ## Power BI Report Analysis
 
 Insurance Claim using Google Data Studio.
-![Fraud_Insurance_Claim](https://github.com/user-attachments/assets/08dbf5bc-a6c1-4585-a236-0c894125854f)
+![Insurance_Claims](https://github.com/user-attachments/assets/844b9ca4-fb60-477a-baa8-07afee914f37)
+
 
 
 
