@@ -4,7 +4,12 @@
 **This repository consists various types of Power BI and Tableau dashboards on various topics**
 ## Power BI Report Analysis
 
-NewYork City Green Taxi Trips Analysis
+Insurance Claim using Google Data Studio.
+![Fraud_Insurance_Claim](https://github.com/user-attachments/assets/08dbf5bc-a6c1-4585-a236-0c894125854f)
+
+
+
+NewYork City Green Taxi Trips Analysis 
 ![NYC_Green_Taxi_Trips_dashboard](https://github.com/user-attachments/assets/e8bfa9cc-673d-48e7-8ff4-3605fd4fd6f3)
 
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -28,7 +33,7 @@ Store Sale dashoard
    
 
 ------------------------------------------------------------------------------------------------------------------------
-3. Australia Map
+3. Australia Map usin Tableau
 
 
 ![Screenshot 2024-06-25 201003](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/2907c76a-858a-49a0-afaa-b107e476c7cd)
