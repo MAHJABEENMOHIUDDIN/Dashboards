@@ -1,3 +1,9 @@
+XYZ_Comnpany_Sale_Analysis_Report
+
+![XYZ_Company_Sales_Analysis](https://github.com/user-attachments/assets/7b5d2357-ad46-4101-8375-f27c3404e8b7)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 
 **![Screenshot 2024-06-25 202307](https://github.com/MAHJABEENMOHIUDDIN/Dashboards/assets/113221570/444968d7-cb9b-46f8-a207-f05311781124)**
 
